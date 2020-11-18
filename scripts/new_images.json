@@ -1,0 +1,106 @@
+{
+    "1": {
+        "image": "./images/woman/woman_3_1280x1280.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1280x720",
+        "download": "./images/nature/nature_1_1280x720.jpg"
+    },
+    "2": {
+        "image": "./images/nature/nature_11_1366x768.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1366x768",
+        "download": "./images/nature/nature_11_1366x768.jpg"
+    },
+    "3": {
+        "image": "./images/minimalizm/minimalizm_1_1280x1024.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1280x1024",
+        "download": "./images/minimalizm/minimalizm_1_1280x1024.jpg"
+    },
+    "4": {
+        "image": "./images/city/city_1_4000x6000.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "4000x6000",
+        "download": "./images/city/city_1_4000x6000.jpg"
+    },
+    "5": {
+        "image": "./images/minimalizm/minimalizm_4_2560x1080.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "2560x1080",
+        "download": "./images/minimalizm/minimalizm_4_2560x1080.jpg"
+    },
+    "6": {
+        "image": "./images/nature/nature_4_1280x1024.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1280x1024",
+        "download": "./images/nature/nature_4_1280x1024.jpg"
+    },
+    "7": {
+        "image": "./images/city/city_13_1280x720.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1280x720",
+        "download": "./images/city/city_13_1280x720.jpg"
+    },
+    "8": {
+        "image": "./images/city/city_12_1280x720.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1280x720",
+        "download": "./images/city/city_12_1280x720.jpg"
+    },
+    "9": {
+        "image": "./images/minimalizm/minimalizm_2_1920x1080.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1920x1080",
+        "download": "./images/minimalizm/minimalizm_2_1920x1080.jpg"
+    },
+    "10": {
+        "image": "./images/man/man_1_1366x768.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1366x768",
+        "download": "./images/man/man_1_1366x768.jpg"
+    },
+    "11": {
+        "image": "./images/words/words_1_1366x768.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1366x768",
+        "download": "./images/words/words_1_1366x768.jpg"
+    },
+    "12": {
+        "image": "./images/nature/nature_8_2560x1080.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "2560x1080",
+        "download": "./images/nature/nature_8_2560x1080.jpg"
+    },
+    "13": {
+        "image": "./images/nature/nature_7_1600x1200.jpg",
+        "alt": "Image alt",
+        "autor_name": "Autor name",
+        "autor_link": "#",
+        "size": "1600x1200",
+        "download": "./images/nature/nature_7_1600x1200.jpg"
+    }
+}
